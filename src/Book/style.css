@@ -1,0 +1,12 @@
+.book {
+  border: 2px solid silver;
+  padding: 20px;
+  display: flex;
+  flex: 0 1 30%;
+}
+
+.book__cover {
+  width: 100%;
+  max-width: 120px;
+  margin: 20px;
+}
